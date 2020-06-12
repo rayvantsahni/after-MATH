@@ -1,4 +1,4 @@
-# lets try to find an approximate value value of pi
+# Lets try to find an approximate value value of pi
 # Higher the value of n, closer will be value to the actual value of pi
 # In other words, more the number of iterations, closer we get to the actual value of pi
 
