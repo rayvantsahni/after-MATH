@@ -1,3 +1,2 @@
 # The Josephus Problem
-People are standing in a circle who have to be executed. Counting begins with the person standing at the first position the circle and proceeds around the circle in a specific direction. In this problem, every second person is executed. The procedure is repeated with the remaining people, starting with the next person in the circle, going in the same direction and skipping the same number of people, until only one person remains.
-This person is the sole survivor and is free to go!
+Flavius Josephus was a famous historian of the first century. During the Jewish-Roman war, he was among a band of 41 Jewish rebels trapped in a cave by the Romans. Preferring suicide to capture, the rebels decided to form a circle and to kill every second person until one was left, who would then commit suicide. But Josephus, was not sold to this idea and therefore quickly calculated where he should stand in the circle so that he can be the last person to live.
