@@ -6,4 +6,6 @@ It does so by iteratively marking as composite (i.e., not prime) the multiples o
 
 To see a really cool visualization of the Sieve of Eratosthenes, click [here](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif).
 
-Source: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+
+Source: *https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes*
