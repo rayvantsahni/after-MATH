@@ -4,4 +4,5 @@ The `Fibonacci Series` is sequence of numbers, starting with zero and one, is cr
 
 It was developed by the Italian mathematician, commonly referred to as "`Fibonacci`," in the 13th century.
 
-The general equation describing it is `Xn+2= Xn+1 + Xn`.
+The general equation describing it is `Xn = Xn−1 + Xn−2`.
+
