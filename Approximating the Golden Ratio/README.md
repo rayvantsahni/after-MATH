@@ -3,6 +3,7 @@ The golden ratio is a special number approximately equal to `1.61803`, but more 
 
 It is denoted `phi`.
 It is often also called  as the **golden mean** or **golden section**.
+The Golden Ratio is even said to be the *most irrational* number, even more than `pi` and `e`.
 If expressed algebraically, it can be written as,
 
 ![](https://user-images.githubusercontent.com/38404580/85476668-704dd800-b5d6-11ea-9ec1-8e09901d34e5.png)
@@ -23,3 +24,8 @@ More generally:
 
 ![](https://user-images.githubusercontent.com/38404580/85476432-e6057400-b5d5-11ea-885f-f4c00ac8c7b2.png)
 where, the ratios of consecutive terms of the Fibonacci sequence, is a case when a = 1.
+
+*The user needs to enter a values for 'n', which will denote the 'n' th term of the series that will act as the denominator for the fraction used to calculate the approx value of the Golden Ratio. The numerator will be taken as the 'n+1' th term of the fibnacci series depending on the value of 'n' entered by the user.
+For eg, if the user enters 10 as the value of 'n', then the program will approximate the value of the Golden Ratio by diving the 11th term by the 10th term.
+
+One important thing to note here is that, **_higher the value of n, more accurate will be our approximation_**.
