@@ -30,3 +30,6 @@ where, the ratios of consecutive terms of the Fibonacci sequence, is a case when
 For eg, if the user enters 10 as the value of 'n', then the program will approximate the value of the Golden Ratio by diving the 11th term by the 10th term.*
 
 One important thing to note here is that, **_higher the value of n, more accurate will be our approximation_**.
+
+
+Just in case any of you wants to view more than 50k digits of the Golden Ratio, you might want to click [here](https://github.com/rayvantsahni/Fun-with-Maths/blob/master/Approximating%20the%20Golden%20Ratio/50%2C640%20Digits%20of%20the%20Golden%20Ratio.md).
