@@ -1,5 +1,7 @@
 # Golden Ratio
-The golden ratio is a special number approximately equal to `1.61803`, but more accurately is represented by `(sqrt(5) + 1) / 2`. It is denoted `phi`.
+The golden ratio is a special number approximately equal to `1.61803`, but more accurately is represented by ![](https://user-images.githubusercontent.com/38404580/85475870-80fd4e80-b5d4-11ea-9453-125a7734feda.png).
+
+It is denoted `phi`.
 It is often also called  as the **golden mean** or **golden section**.
 If expressed algebraically, it can be written as,
 
