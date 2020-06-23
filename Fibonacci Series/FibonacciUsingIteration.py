@@ -5,8 +5,6 @@ def fib(n):
     first = 0
     second = 1
 
-    if n < 1:
-        return -1
     if n == 1:
         return first
     if n == 2:
