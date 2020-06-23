@@ -5,7 +5,7 @@ It is denoted `phi`.
 It is often also called  as the **golden mean** or **golden section**.
 If expressed algebraically, it can be written as,
 
-![](https://user-images.githubusercontent.com/38404580/85475804-527f7380-b5d4-11ea-8353-9fed5a887c84.png)
+![](https://user-images.githubusercontent.com/38404580/85476668-704dd800-b5d6-11ea-9ec1-8e09901d34e5.png)
 
 It has several applications in the nature...
 
