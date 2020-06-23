@@ -7,4 +7,19 @@ If expressed algebraically, it can be written as,
 
 ![](https://user-images.githubusercontent.com/38404580/85475804-527f7380-b5d4-11ea-8353-9fed5a887c84.png)
 
-It appears many times in geometry, art, architecture and other areas.
+It has several applications in the nature...
+
+
+In this program, we are trying to approximate the Golden Ratio. 
+Here, we leverage the fact that the mathematics of the golden ratio and of the Fibonacci sequence are intimately interconnected.
+
+A closed-form expression for the Fibonacci sequence involves the golden ratio:
+
+![](https://user-images.githubusercontent.com/38404580/85476268-8d35db80-b5d5-11ea-81c6-4d1056f32e54.png)
+
+In other words, if a Fibonacci number is divided by its immediate predecessor in the sequence, the quotient approximates φ; e.g., 987/610 ≈ 1.6180327868852. These approximations are alternately lower and higher than φ, and converge to φ as the Fibonacci numbers increase.
+
+More generally:
+
+![](https://user-images.githubusercontent.com/38404580/85476432-e6057400-b5d5-11ea-885f-f4c00ac8c7b2.png)
+where, the ratios of consecutive terms of the Fibonacci sequence, is a case when a = 1.
