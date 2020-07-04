@@ -23,7 +23,7 @@ We know,
 Hence,
 ## log10(n!) = log10(1 . 2 . 3 . 4 . 5 ......... n-2 . n-1 . n)
 
-But we know, `**log10(a * b) = log10(a) + log10(b)**`
+But we know, `log10(a * b) = log10(a) + log10(b)`
 
 Therefore, we can write
 ## log10(n!) = log10(1) + log10(2) + log10(3) + log10(4) + ............. + log10(n-2) + log10(n-1) + log10(n)
