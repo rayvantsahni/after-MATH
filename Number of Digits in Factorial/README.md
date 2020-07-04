@@ -29,4 +29,8 @@ Therefore, we can write
 ## log10(n!) = log10(1) + log10(2) + log10(3) + log10(4) + ............. + log10(n-2) + log10(n-1) + log10(n)
 
 And hence, the number of digits in the factorial of any number 'n' is
-## `log10(1) + log10(2) + log10(3) + log10(4) + ............. + log10(n-2) + log10(n-1) + log10(n) + 1`
+### `log10(1) + log10(2) + log10(3) + log10(4) + ............. + log10(n-2) + log10(n-1) + log10(n) + 1`
+
+
+
+NOTE - One thing to note here is that, in this program we ARE finding the factorial but it has **NOTHING** to do with the solution we are getting, we are just printing the factorial in case we want to cross check manually. So, our program would work just fine even if we removed the line where we are getting the factorial.
