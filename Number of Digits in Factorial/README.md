@@ -1,5 +1,5 @@
 # Number of Digits in the Factorial of a Number
-Finding the numbre of digits in the factorial of a number doesn't seem to hard but it does pose a problem if we think about it. Factorials tend to increament very rapidly as the number increases, and hence need a lot of memory to be stored. 
+Finding the number of digits in the factorial of a number doesn't seem to hard but it does pose a problem if we think about it. Factorials tend to increament very rapidly as the number increases, and hence need a lot of memory to be stored. 
 
 ![image](https://user-images.githubusercontent.com/38404580/86520416-ab1b0000-be61-11ea-82a3-20dd5a4488b2.png)
 
