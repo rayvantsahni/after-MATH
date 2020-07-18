@@ -33,4 +33,4 @@ And hence, the number of digits in the factorial of any number 'n' is
 
 
 
-NOTE - One thing to note here is that, in this program we ARE finding the factorial but it has **NOTHING** to do with the solution we are getting, we are just printing the factorial in case we want to cross check manually. So, our program would work just fine even if we removed the line where we are getting the factorial.
+NOTE - One thing to note here is that, in this program we ARE finding the factorial but it has **NOTHING** to do with the solution we are getting, we are just printing the factorial in case we want to cross check manually. Therefore, our program would work totally fine even if we did do not find the factorial in this program.
