@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 23 15:14:33 2020
-
-@author: Rayvant Sahni
-"""
-
 from random import randint
 from collections import Counter
 
