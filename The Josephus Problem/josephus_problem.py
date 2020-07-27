@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 28 04:07:23 2020
-
-@author: Rayvant Sahni
-"""
-
 class Node:
     def __init__(self, value):
         self.value = value
@@ -101,7 +94,6 @@ def main():
         c.append(i)
         
     c.josephus(step)
-        
     print("The final survivor is:", c.get_survivor())
     
     
