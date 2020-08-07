@@ -1,2 +1,2 @@
 # Fun-with-Maths
-This repository is for math related problems and for some fun..
+This repository is for math related problems and some fun..
