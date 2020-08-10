@@ -2,6 +2,8 @@
  The **Euclidean algorithm**, also called **Euclid's algorithm**, is an algorithm for finding the `greatest common divisor` of two numbers `a` and `b`.
  The **Greatest Common Divisor (GCD)** of two integers `a` and `b` is the **largest integer that divides** both `a` and `b`.
  
+ Often, GCD is also known as the **Highest Common Factor (HCF)**.
+ 
  #
 ### The Algorithm
 The Euclidean Algorithm for finding GCD(A, B) is as follows:
