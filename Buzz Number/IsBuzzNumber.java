@@ -9,6 +9,6 @@ class Main
     public static void main(String[] args) 
     {
         int number = 7010307;
-        System.out.println(IsBuzzNumber(number));
+        System.out.println(IsBuzzNumber(number) ? "Is a Buzz Number" : "Is NOT a Buzz Number");
     }
 }
