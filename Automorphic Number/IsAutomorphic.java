@@ -1,7 +1,7 @@
 public class Main
 {
     
-    public static boolean IsAutomorphic(long n)
+    public static boolean isAutomorphic(long n)
     {
         String number = String.valueOf(n);
         String square = String.valueOf(n * n);
