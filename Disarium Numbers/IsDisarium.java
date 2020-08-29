@@ -1,6 +1,6 @@
 class Main 
 {
-    public static boolean IsDisarium(int m)
+    public static boolean isDisarium(int m)
     {
         int sum = 0, n = m;
         int length = Integer.toString(n).length();
@@ -18,6 +18,6 @@ class Main
     public static void main(String[] args) 
     {
         int number = 175;
-        System.out.println(IsDisarium(number) ? "Is Disarium" : "NOT Disarium");
+        System.out.println(isDisarium(number) ? "Is Disarium" : "NOT Disarium");
     }
 }
