@@ -14,7 +14,7 @@ public class Main
      {
          
         long number = 890625;
-        System.out.println(IsAutomorphic(number) ? "Automorphic" : "NOT Automorphic");
+        System.out.println(isAutomorphic(number) ? "Automorphic" : "NOT Automorphic");
         
      }
 }
