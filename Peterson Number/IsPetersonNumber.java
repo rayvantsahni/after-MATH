@@ -9,7 +9,7 @@ class Main
     }
 
 
-    public static boolean IsPetersonNumber(int x)
+    public static boolean isPetersonNumber(int x)
     {
         int sum = 0, n = x;
 
@@ -26,6 +26,6 @@ class Main
     public static void main(String[] args) 
     {
         int number = 145;
-        System.out.println(IsPetersonNumber(number) ? "Is a Peterson Number" : "Is NOT a Peterson Number");
+        System.out.println(isPetersonNumber(number) ? "Is a Peterson Number" : "Is NOT a Peterson Number");
     }
 }
