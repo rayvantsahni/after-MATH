@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main 
 {
-    public static boolean IsDuckNumber(String s)
+    public static boolean isDuckNumber(String s)
     {
         while (s.startsWith("0"))
         {
@@ -19,6 +19,6 @@ public class Main
         System.out.println("Enter the number to check for Duck Number");
         String number = scan.nextLine();
         
-        System.out.println(IsDuckNumber(number) ? "Is a Duck Number" : "Is NOT a Duck Number");
+        System.out.println(isDuckNumber(number) ? "Is a Duck Number" : "Is NOT a Duck Number");
     }
 }
