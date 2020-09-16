@@ -51,10 +51,10 @@ if __name__ == "__main__":
     #             [13, 14, 15, 16]]
 
 
-    r = int(input("Enter the number of times you want to rotate the matrix:\n"))
+    number_of_rotations = int(input("Enter the number of times you want to rotate the matrix:\n"))
     print("To rotate COUNTER-CLOCKWISE enter 0, OR\nTo rotate CLOCKWISE enter 1.")
-    d = int(input())
+    direction = int(input())
 
     print("Rotated Matrix:")
-    for row in (rotate(matrix_3, r % 4, d % 2)):
+    for row in (rotate(matrix_3, number_of_rotations % 4, direction % 2)):
         print(row)
