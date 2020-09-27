@@ -3,7 +3,7 @@ import java.util.*;
 class Main
 {
     public static int digitalRoot(int n) {
-        while (String.valueOf(n).length() > 1) {
+        while (n / 10 > 0) {
             n = sumOfDigits(n);
         }
         return n;
