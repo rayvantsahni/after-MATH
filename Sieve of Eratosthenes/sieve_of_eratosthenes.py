@@ -1,4 +1,4 @@
-def finding_primes(n):
+def get_primes(n):
     sieve = [False] * (n-1)  # True -> composite, False -> prime
 
     for i in range(2, n + 1):  # loops over all the numbers from 2 to n
@@ -13,7 +13,7 @@ def finding_primes(n):
 
 if __name__ == "__main__":
     n = 100
-    for i, j in enumerate(finding_primes(n), 2):
+    for i, j in enumerate(get_primes(n), 2):
         if not j:
             print(i, end = " ")
     print()
