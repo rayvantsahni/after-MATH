@@ -23,7 +23,7 @@ class SumOfDivisors
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter number");
+        System.out.println("Enter n");
         int n = scanner.nextInt();
 
         long sum = 0;
