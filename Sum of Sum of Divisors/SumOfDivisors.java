@@ -7,7 +7,6 @@ class SumOfDivisors
             return 1;
 
         int sum = n + 1;
-
         for (int i = 2; i * i <= n; i++) {
             if (n % i == 0) {
                 sum += i;
