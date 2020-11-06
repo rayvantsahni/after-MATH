@@ -6,6 +6,7 @@ class Attractive
 {
     private static ArrayList<Integer> getPrimes(int n) {
         ArrayList<Integer> primes = new ArrayList<>(n);
+        
         boolean[] sieve = new boolean[n + 1];
         sieve[0] = true;
         sieve[1] = true;
