@@ -2,7 +2,14 @@ import java.util.Scanner;
 
 public class Main
 {
+	
+    public static void placeQueen(boolean[][] board) {
+        // simply overloading the 'placeQueen' function so that when we initially call the function
+        // in the main method, we don't have to pass the value of row = 0
+        placeQueen(board, 0);
+    }
 
+	
     public static void placeQueen(boolean[][] board, int row) {
 
         // if we have reached the last row, then we just display the board and return
