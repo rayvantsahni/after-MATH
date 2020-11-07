@@ -83,8 +83,8 @@ public class Main
         System.out.println("Enter N");
         int n = scanner.nextInt();
 
-	    boolean[][] board = new boolean[n][n];
+	boolean[][] board = new boolean[n][n];
 
-	    placeQueen(board, 0);
+	placeQueen(board, 0);
     }
 }
