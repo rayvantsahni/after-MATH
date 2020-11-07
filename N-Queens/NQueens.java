@@ -92,6 +92,6 @@ public class Main
 
 	boolean[][] board = new boolean[n][n];
 
-	placeQueen(board, 0);
+	placeQueen(board);
     }
 }
