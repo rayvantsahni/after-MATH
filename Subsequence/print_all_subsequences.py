@@ -1,9 +1,14 @@
+# =======================================================================
 # This algorithm uses a top-down approach of recursion
 # and becasue we only need to perform one action here
 # for each subsequence, i.e print.
 # Hence, we don't need to store the subsequences as
 # they are generated. We can simply print a subsequence
 # and move forward.
+# At each step, we just make a choice of whether to include
+# a certain letter or to exclude it, until no letter is 
+# left to make a choice for.
+# =======================================================================
 
 
 
@@ -19,3 +24,7 @@ def print_subsequences(string, output_subsequence = ""):
 if __name__ == "__main__":
     string = input("Enter string: ")
     print_subsequences(string)
+    
+    
+    
+# For reference: https://www.youtube.com/watch?v=EJwCUCjb9HM
