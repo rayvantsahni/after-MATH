@@ -10,3 +10,7 @@ def get_subsequences(string):
 if __name__ == "__main__":
     string = input("Enter string: ")
     print(get_subsequences(string))
+
+    
+    
+# For reference: https://www.youtube.com/watch?v=XpyAp5abmBI
