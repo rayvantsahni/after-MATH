@@ -11,8 +11,9 @@ Narcissistic Numbers for some small values of 'n' are given below -
 
 ![image](https://user-images.githubusercontent.com/38404580/99451942-f0d7f100-2948-11eb-8649-d9bede70e44d.png)
 
+For Source of above table, Click [Here](https://archive.lib.msu.edu/crcmath/math/math/n/n023.htm).
 
 
-For Source of this table, Click [Here](https://archive.lib.msu.edu/crcmath/math/math/n/n023.htm).
 
 
+To see n-Narcissistic Numbers for even greater values of 'n', Click [Here](https://github.com/rayvantsahni/No-Mo-Math/blob/master/Narcissistic%20Number/Base10%20n-Narcissistic%20Numbers.md).
