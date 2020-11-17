@@ -16,4 +16,4 @@ def get_number_of_digits(n):
 
 if __name__ == "__main__":
     n = int(input("Enter number: "))
-    print(is_narcissistic_number(n))
+    print("Is a Narcissistic Number" if is_narcissistic_number(n) else "Is NOT a Narcissistic Number")
