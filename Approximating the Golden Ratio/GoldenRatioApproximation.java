@@ -24,7 +24,7 @@ public class Main
         System.out.println("Fibonacci series till the " + (n+1) + "th term:\n" + fiboSeries);
 
         goldenRatio = (double)fiboSeries.get(n) / fiboSeries.get(n-1);
-        System.out.println("Diving the " + (n+1) + "th term by the " + n + "th term to get an approximate of the Golden Ratio,");
+        System.out.println("Dividing the " + (n+1) + "th term by the " + n + "th term to get an approximate of the Golden Ratio,");
         System.out.println("i.e,\n" + fiboSeries.get(n) + " / " + fiboSeries.get(n-1));
         System.out.println("Hence, we get: " + goldenRatio);
 
